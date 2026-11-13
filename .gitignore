@@ -1,0 +1,20 @@
+# Kaggle inputs, locally generated results and trained models
+data/
+outputs/
+saved_model/
+submission.csv
+train_transaction.csv
+train_identity.csv
+test_transaction.csv
+test_identity.csv
+*.joblib
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.py[cod]
+.env
+.env.*
+.DS_Store
